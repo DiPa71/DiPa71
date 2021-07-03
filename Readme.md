@@ -1,5 +1,5 @@
 <h1 style="text-align: center;"> Bienvenido a mi página de Github </h1>
-<div style="display: flex; justify-content: center;" align="center">
+<div style="display: flex;" align="center">
     <img src="./readme-img/avocado_log.png" alt="Avocados logo." width="100" height="100">
     <p>Avocados Network is a company created to make its web pages with the most modern technology, so that your business works online.</p>
 </div>
