@@ -1,6 +1,8 @@
 <h1 style="text-align: center;"> Bienvenido a mi página de Github </h1>
-<img src="./readme-img/avocado_log.png" alt="Avocados logo." width="100" height="100">
-<p>Avocados Network is a company created to make its web pages with the most modern technology, so that your business works online.</p>
+<div style="display: flex; justify-content: center;" align="center">
+    <img src="./readme-img/avocado_log.png" alt="Avocados logo." width="100" height="100">
+    <p>Avocados Network is a company created to make its web pages with the most modern technology, so that your business works online.</p>
+</div>
 <h3 style="text-align: center;">I'm Pablo and I like programming, especially web dev. These are the technologies that I am using or learning</h3>
 <div style="display: flex; justify-content: center;" align="center">
     <img src="./readme-img/css-course-css.png" alt="webpack logo" width="70" height="80">
