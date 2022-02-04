@@ -1,5 +1,5 @@
 <h1 style="text-align: center;"> Welcome to my Github </h1>
-<h4 style="text-align: center;">I'm Pablo and I like programming, especially web dev. These are the technologies that I am using or learning</h4>
+<h4 style="text-align: center;">I'm Pablo and I love programming, especially web dev. These are the technologies that I am using or learning</h4>
 <div style="display: flex; justify-content: center;" align="center">
     <img src="./readme-img/css-course-css.png" alt="webpack logo" width="70" height="80">
     <img src="./readme-img/javascript-icon-png.png" alt="Js logo" width="70" height="70">
