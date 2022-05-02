@@ -10,4 +10,4 @@
     <img src="https://stickker.net/wp-content/uploads/2016/01/flask.svg_.png-300x300.png" alt="webpack logo" width="70" height="70">
     <img src="https://devstickers.com/assets/img/cat/vuejs.png" alt="webpack logo" width="70" height="70">
 </div>
-<a href="https://pcc.avocadosnetwork.com/">Visit my site...</a>
+<a href="https://pcc.avocadosnetwork.com/">My site made with Nextjs</a>
