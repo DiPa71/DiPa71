@@ -7,5 +7,7 @@
     <img src="./readme-img/pnghost_php-software-development-kit-logo-node-js-programmer.png" alt="php logo" width="70" height="70">
     <img src="./readme-img/react.png" alt="reactjs logo" width="70" height="70">
     <img src="./readme-img/webpack.png" alt="webpack logo" width="70" height="70">
+    <img src="https://stickker.net/wp-content/uploads/2016/01/flask.svg_.png-300x300.png" alt="webpack logo" width="70" height="70">
+    <img src="https://devstickers.com/assets/img/cat/vuejs.png" alt="webpack logo" width="70" height="70">
 </div>
 <a href="https://pcc.avocadosnetwork.com/">Visit my site...</a>
