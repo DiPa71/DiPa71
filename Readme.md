@@ -8,6 +8,6 @@
     <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/jhabdas/images/969312/react-logo-1000-transparent.png" alt="reactjs logo" width="70" height="70">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/webpack-icon-logo-png-transparent.png" alt="webpack logo" width="70" height="70">
     <img src="https://stickker.net/wp-content/uploads/2016/01/flask.svg_.png-300x300.png" alt="webpack logo" width="70" height="70">
-    <img src="[https://devstickers.com/assets/img/cat/vuejs.png](https://proximitycr.com/wp-content/uploads/2018/11/1200px-Vue.js_Logo_2.svg_.png)" alt="webpack logo" width="70" height="70">
+    <img src="https://devstickers.com/assets/img/cat/vuejs.png](https://proximitycr.com/wp-content/uploads/2018/11/1200px-Vue.js_Logo_2.svg_.png" alt="webpack logo" width="70" height="70">
 </div>
 <a href="https://pcc.avocadosnetwork.com/">My site made with Nextjs</a>
