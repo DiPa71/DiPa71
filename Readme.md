@@ -12,4 +12,4 @@
     <img src="https://proximitycr.com/wp-content/uploads/2018/11/1200px-Vue.js_Logo_2.svg_.png" alt="vuejs logo" width="70" height="70">
     <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="django logo" width="70" height="70">
 </div>
-<a href="https://pcc.avocadosnetwork.com/">My site made with Nextjs</a>
+<a href="https://pcc.avocadosnetwork.com/" style="text-align: center;">My site made with Nextjs</a>
