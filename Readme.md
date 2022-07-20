@@ -6,6 +6,7 @@
     <img src="https://www.splunk.com/content/dam/splunk-blogs/images/2017/02/nginx-logo.png" alt="nginx logo" width="70" height="80">
     <img src="https://www.mindrops.com/images/nodejs-image.png" alt="php logo" width="70" height="70">
     <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/jhabdas/images/969312/react-logo-1000-transparent.png" alt="reactjs logo" width="70" height="70">
+    <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" alt="reactjs logo" width="70" height="70">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/webpack-icon-logo-png-transparent.png" alt="webpack logo" width="70" height="70">
     <img src="https://stickker.net/wp-content/uploads/2016/01/flask.svg_.png-300x300.png" alt="webpack logo" width="70" height="70">
     <img src="https://proximitycr.com/wp-content/uploads/2018/11/1200px-Vue.js_Logo_2.svg_.png" alt="vuejs logo" width="70" height="70">
