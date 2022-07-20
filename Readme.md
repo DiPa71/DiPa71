@@ -9,5 +9,6 @@
     <img src="https://cdn.freebiesupply.com/logos/large/2x/webpack-icon-logo-png-transparent.png" alt="webpack logo" width="70" height="70">
     <img src="https://stickker.net/wp-content/uploads/2016/01/flask.svg_.png-300x300.png" alt="webpack logo" width="70" height="70">
     <img src="https://proximitycr.com/wp-content/uploads/2018/11/1200px-Vue.js_Logo_2.svg_.png" alt="vuejs logo" width="70" height="70">
+    <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="django logo" width="70" height="70">
 </div>
 <a href="https://pcc.avocadosnetwork.com/">My site made with Nextjs</a>
