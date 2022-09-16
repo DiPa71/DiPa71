@@ -36,7 +36,7 @@ I am glad that you come and visit my profile here, thanks for coming, hare you'l
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=Windows&logoColor=white)
+![Windows11](https://img.shields.io/badge/Windows11-0078D4?style=for-the-badge&logo=Windows11&logoColor=white)
 
 ### UI / UX 🖼️
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
