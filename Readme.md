@@ -25,6 +25,11 @@ I am glad that you come an visit my profile here, thanks for coming, hare you'll
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=Pug&logoColor=white)
 
+### Databases 💾
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+
 <hr />
 
 Contact Me 💬: <br>
