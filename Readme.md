@@ -1,8 +1,8 @@
 ##  Welcome to my profile 🖐🏻
 
-I am glad that you come an visit my profile here, thanks for coming, hare you'll see my best projects, have fun and leave a comment on them 🎧
+I am glad that you come an visit my profile here, thanks for coming, hare you'll see my best projects, have fun and leave a comment on them 😜😝
 
-## technology I use:
+## Technology I use:
 ### Basic
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
