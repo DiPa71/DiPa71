@@ -13,7 +13,7 @@ I am glad that you come an visit my profile here, thanks for coming, hare you'll
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 
 ### Backend
-![ExpressJS](https://img.shields.io/badge/Express-fff?style=for-the-badge&logo=Express&logoColor=black)
+![Express](https://img.shields.io/badge/ExpressJS-fff?style=for-the-badge&logo=Express&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 
 ### Fullstack
