@@ -7,5 +7,5 @@
 I am glad that you come an visit my profile here, thanks for coming, hare you'll see my best projects, have fun and leave a comment on them 🎧
 
 technology I use:
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 
