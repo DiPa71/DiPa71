@@ -38,8 +38,9 @@ I am glad that you come and visit my profile here, thanks for coming, hare you'l
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=Windows&logoColor=white)
 
-
-
+### UI / UX
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Photoshop&logoColor=black)
 
 <hr />
 
