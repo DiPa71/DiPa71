@@ -1,6 +1,6 @@
 ##  Welcome to my profile 🖐🏻
 
-I am glad that you come and visit my profile here, thanks for coming, hare you'll see my best projects, have fun and leave a comment on them 😜😝
+I am glad that you come and visit my profile here, thanks for coming, here you'll see my best projects, have fun and leave a comment on them 😜😝
 
 ## Technology's I use:
 
